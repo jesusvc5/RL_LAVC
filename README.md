@@ -13,7 +13,7 @@
 [Explicación de la organización del repositorio]
 
 ## Instalación y uso
-[Instrucciones si son necesarias]
+No es necesaria realizar ninguna instalación para poder reproducir los experimentos, basta entrar en los ficheros Jupyter Notebook donde se hallan los experimentos y abrirlos en Colab. Todos los experimentos son reproducibles.
 
 ## Tecnologías Utilizadas
-[Lista de lenguajes, frameworks, etc.]
+Hemos desarrollado el código necesario para poder llevar a cabo los experimentos en ficheros en ficheros Jupyter Notebook utilizando el lenguaje de progrmación Python.
