@@ -7,10 +7,10 @@
 - **Curso:** 2024/2025
 - **Grupo:** LAVC (id. 6243486)
 ## Descripción
-[Breve descripción del trabajo y sus objetivos]
+
 
 ## Estructura
-[Explicación de la organización del repositorio]
+En este repositorio solamente se hallan los ficheros Jupyter Notebook donde se han realizado todos los experimentos. Todas las funcionalidades requeridas para poder llevar a cabo cada uno de los experimentos se halla dentro del experimento correspondiente. 
 
 ## Instalación y uso
 No es necesaria realizar ninguna instalación para poder reproducir los experimentos, basta entrar en los ficheros Jupyter Notebook donde se hallan los experimentos y abrirlos en Colab. Todos los experimentos son reproducibles.
