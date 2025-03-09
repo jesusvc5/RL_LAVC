@@ -10,7 +10,9 @@
 
 
 ## Estructura
-En este repositorio solamente se hallan los ficheros Jupyter Notebook donde se han realizado todos los experimentos. Todas las funcionalidades requeridas para poder llevar a cabo cada uno de los experimentos se halla dentro del experimento correspondiente. 
+En este repositorio solamente se hallan los ficheros Jupyter Notebook donde se han realizado todos los experimentos. Todas las funcionalidades requeridas para poder llevar a cabo cada uno de los experimentos se halla dentro del experimento correspondiente.
+
+Se puede acceder a todos los ficheros desde el Jupyter Notebook _main.ipynb_
 
 ## Instalación y uso
 No es necesaria realizar ninguna instalación para poder reproducir los experimentos, basta entrar en los ficheros Jupyter Notebook donde se hallan los experimentos y abrirlos en Colab. Todos los experimentos son reproducibles.
